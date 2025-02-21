@@ -21,7 +21,7 @@ function Main() {
       <SectionFour />
       <SectionFive />
       <SectionSix />
-        {/* <YoutubeVideos /> */}
+        <YoutubeVideos />
       <Rating />
     </>
   );
